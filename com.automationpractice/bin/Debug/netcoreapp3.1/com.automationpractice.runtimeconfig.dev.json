@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Diones Bandeira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Diones Bandeira\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
