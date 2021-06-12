@@ -125,7 +125,7 @@ namespace com.automationpractice
                 searchPage.clickBtnSearch();
                 Thread.Sleep(3000);
                 
-                //Assert.That(searchPage.obterMsn(), Is.EqualTo("No results were found for your search "underwear""));
+                Assert.That(searchPage.obterMsn(), Is.EqualTo("No results were found for your search "underwear""));
                 
             }
             catch
